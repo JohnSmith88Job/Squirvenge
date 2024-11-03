@@ -1,0 +1,12 @@
+{
+    "name": "Squirvenge",
+    "symbol": "Squirvenge",
+    "description": "Revenge for innocent animal!",
+    "image": "https://raw.githubusercontent.com/JohnSmith88Job/Squirvenge/refs/heads/main/Squirel.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
